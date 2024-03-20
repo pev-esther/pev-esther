@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pev-esther
 - 👀 I’m interested in developing code
-- 🌱 I've just finished my bachelor degree computer science (at Tel Aviv Academic College)
+- 🌱 BSc computer science (at Tel Aviv Academic College)
 - 📫 How to reach me: esthervig@gmail.com
 
 <!---
